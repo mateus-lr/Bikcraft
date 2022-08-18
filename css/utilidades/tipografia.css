@@ -56,6 +56,13 @@
   font: 400 0.875/1.43 "Roboto", sans-serif;
 }
 
+/* Fonte merryweather */
+
+.font-3-l {
+  font: 900 2rem/1.15 "merriweather", serif;
+  font-style: italic;
+}
+
 @media (max-width: 1200px) {
   .font-1-xxl {
     font-size: 3rem;

@@ -1,5 +1,5 @@
 .parceiros {
-  padding-top: 60px ;
+  padding-top: 60px;
   padding-bottom: 120px;
 }
 
@@ -45,6 +45,10 @@
 
   .parceiros ul {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .parceiros li {
+    padding: 20px;
   }
 
   .parceiros li:nth-child(n+3) {
